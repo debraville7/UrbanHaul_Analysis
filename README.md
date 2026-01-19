@@ -1,6 +1,8 @@
 # 🚚 UrbanHaul – Optimizing Rider Performance and Operational Efficiency with Analytics
 
-https://github.com/debraville7/UrbanHaul_Analysis/blob/41fcd7121a65ebb4dac27f79d65ad3b2c18711b3/visual/URBANHAUL-POWER%20BI-%20DASHBOARD.png
+## 👇 Dashboard
+
+(./visual/URBANHAUL-POWER%20BI-%20DASHBOARD.png)
 
 ## 📌 Executive Summary
 UrbanHaul is a rapidly scaling last-mile delivery platform operating across major urban markets and multiple delivery categories. As growth accelerated, leadership lacked a centralized, data-driven view of rider performance, operational efficiency, and service quality.
