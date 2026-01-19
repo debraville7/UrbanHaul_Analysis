@@ -177,7 +177,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 1: Rider Performance Is Highly Polarized  
 📍 **Chart:** Top vs Poorly Rated Riders  
-➡️ [View Chart](./visual/CUSTOMER%20RATING%20TREND.png)
+➡️ [View Chart](./visual/TOP%20%26%20POORLY%20RATED%20RIDERS.png)
 
 **Takeaway:** A small group of riders significantly outperforms others, indicating both scalability potential and hidden risk.  
 **Action:** Scale best practices from top performers and proactively support low performers.
@@ -186,7 +186,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 2: Efficiency ≠ Earnings Across Regions  
 📍 **Chart:** Operational Efficiency by Region  
-➡️ [View Chart](./visuals/insight_02_efficiency_by_region.png)
+➡️ [View Chart](./visual/OPERATIONAL%20EFFICIENCY%20BY%20REGION.png)
 
 **Takeaway:** Some regions convert efficiency into earnings better than others.  
 **Action:** Apply region-specific strategies instead of a one-size-fits-all model.
@@ -195,7 +195,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 3: Delivery Priority Drives Operational Pressure  
 📍 **Chart:** Delivery Volume by Priority  
-➡️ [View Chart](./visuals/insight_03_delivery_priority.png)
+➡️ [View Chart](./visual/DELIVERY%20BY%20PRIORITY.png)
 
 **Takeaway:** Low-priority deliveries dominate volume, but high-priority orders drive risk.  
 **Action:** Segment routing, staffing, and incentives by priority level.
@@ -204,7 +204,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 4: Revenue Is Concentrated by Category  
 📍 **Chart:** Delivery & Revenue by Category  
-➡️ [View Chart](./visuals/insight_04_category_revenue.png)
+➡️ [View Chart](./visual/DELIVERY%20%26%20REVENUE%20BY%20CATEGORY.png)
 
 **Takeaway:** High volume does not always mean high value.  
 **Action:** Focus capacity on high-yield categories and reprice or bundle low-yield ones.
@@ -213,7 +213,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 5: Customer Ratings Are Volatile  
 📍 **Chart:** Customer Rating Trend  
-➡️ [View Chart](./visuals/insight_05_customer_rating_trend.png)
+➡️ [View Chart](./visual/CUSTOMER%20RATING%20TREND.png)
 
 **Takeaway:** Service quality is inconsistent throughout the year.  
 **Action:** Stabilize operations during historically volatile periods.
@@ -222,7 +222,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 6: Shift Performance Is Balanced  
 📍 **Chart:** Performance by Shift  
-➡️ [View Chart](./visuals/insight_06_performance_by_shift.png)
+➡️ [View Chart](./visual/PERFORMANCE%20BY%20SHIFT.png)
 
 **Takeaway:** Performance is evenly distributed across shifts, with a slight night-shift edge.  
 **Action:** Transfer night-shift efficiencies to daytime operations.
@@ -231,7 +231,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 7: Vehicle Type Does Not Drive Rider Experience  
 📍 **Chart:** Vehicle Performance  
-➡️ [View Chart](./visuals/insight_07_vehicle_performance.png)
+➡️ [View Chart](./visual/VEHICLE%20PERFORMANCE%20BY%20OVERALL%20RATING.png)
 
 **Takeaway:** Rider satisfaction is consistent across vehicles.  
 **Action:** Optimize fleet decisions using efficiency and cost, not perception.
@@ -240,7 +240,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 8: Rider Performance Is Stable Over Time  
 📍 **Chart:** Overall Rider Rating Trend  
-➡️ [View Chart](./visuals/insight_08_overall_rating_trend.png)
+➡️ [View Chart](./visual/OVERALL%20RIDER%20RATING%20TREND.png)
 
 **Takeaway:** Performance is resilient but experiences short-term volatility.  
 **Action:** Proactively manage seasonal dips and institutionalize year-end best practices.
