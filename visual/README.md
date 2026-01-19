@@ -46,13 +46,23 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ---
 
-## 🎯 Business Objectives
+## 🧠 Business Objectives: Analytical Approach
 
-### Objective 1: Improve Operational Efficiency & Revenue Performance  
-**(Dashboard 1 – Executive / Operations Overview)**
+### Dashboard 1: Executive / Operations Overview
+**Purpose:** Strategic oversight and resource allocation  
+**Focus Areas:**
+- Regional efficiency
+- Delivery volume by category & priority
+- Earnings efficiency
+- Customer satisfaction trends
 
-### Objective 2: Optimize Rider Performance & Reduce Operational Risk  
-**(Dashboard 2 – Rider Performance)**
+### Dashboard 2: Rider Performance
+**Purpose:** Operational monitoring and coaching  
+**Focus Areas:**
+- Performance by shift and vehicle
+- Rating trends over time
+- Productivity vs workload balance
+- Burnout risk identification
 
 ---
 
@@ -85,26 +95,6 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 - Earnings per KM  
 - Average Deliveries per Day  
 - Burnout Risk Flag  
-
----
-
-## 🧠 Analytical Approach
-
-### Dashboard 1: Executive / Operations Overview
-**Purpose:** Strategic oversight and resource allocation  
-**Focus Areas:**
-- Regional efficiency
-- Delivery volume by category & priority
-- Earnings efficiency
-- Customer satisfaction trends
-
-### Dashboard 2: Rider Performance
-**Purpose:** Operational monitoring and coaching  
-**Focus Areas:**
-- Performance by shift and vehicle
-- Rating trends over time
-- Productivity vs workload balance
-- Burnout risk identification
 
 ---
 
