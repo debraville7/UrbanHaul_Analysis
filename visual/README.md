@@ -46,7 +46,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ---
 
-## 🧠 Business Objectives: Analytical Approach
+## 🧠 Business Objectives
 
 ### Dashboard 1: Executive / Operations Overview
 **Purpose:** Strategic oversight and resource allocation  
