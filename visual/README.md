@@ -93,6 +93,81 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ---
 
+## 🗂 Data Dictionary
+
+### Riders
+| Column Name | Description |
+|------------|------------|
+| rider_id | Unique rider identifier |
+| rider_name | Rider’s full name |
+| rider_type | Employment type (full-time / gig / contract) |
+| joined_via_referral | Indicates if rider joined via referral |
+| gender | Rider gender |
+| age | Rider age |
+| region | Rider region |
+| profile_image | Link to profile image |
+
+---
+
+### Vehicles
+| Column Name | Description |
+|------------|------------|
+| vehicle_id | Unique vehicle identifier |
+| vehicle_type | Mode of transport |
+| fuel_type | Fuel type |
+| max_load_kg | Maximum cargo capacity |
+
+---
+
+### Delivery_Category
+| Column Name | Description |
+|------------|------------|
+| delivery_category_id | Unique category identifier |
+| delivery_category | Type of delivery |
+| priority_level | Delivery urgency |
+
+---
+
+### Geography
+| Column Name | Description |
+|------------|------------|
+| geo_id | Unique geographic identifier |
+| state | State name |
+| city | City name |
+
+---
+
+### Rider_Performance
+| Column Name | Description |
+|------------|------------|
+| entry_id | Unique record identifier |
+| rider_id | Links to Riders table |
+| vehicle_id | Vehicle used |
+| delivery_category_id | Delivery category |
+| year_month | Reporting period |
+| avg_daily_distance_km | Average daily distance |
+| total_monthly_distance_km | Monthly distance |
+| avg_deliveries_per_day | Average daily deliveries |
+| avg_monthly_earnings_usd | Monthly earnings |
+| shift_time | Shift period |
+| earnings_satisfaction | Earnings satisfaction rating |
+| shift_flexibility | Schedule flexibility rating |
+| dispatch_support | Dispatch support rating |
+| route_difficulty | Route difficulty score |
+| customer_rating | Average customer rating |
+| commission | Revenue generated from rider |
+
+---
+
+## 🔄 Data Transformation Process
+- Data type standardization
+- Duplicate record removal
+- Geography normalization (State & City split)
+- Text cleansing and standardization
+- Invalid and out-of-range value handling
+
+---
+
 ## 📊 Key Insights & Recommendations
 
 ### 🔹 Insight 1: Rider Performance Is Highly Polarized  
