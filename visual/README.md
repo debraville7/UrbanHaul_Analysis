@@ -12,7 +12,7 @@ Together, these dashboards transform raw delivery data into **actionable insight
 ---
 
 ## 📚 Table of Contents
-1. [Rationale for the Project](#-Rationale for the Project)
+1. [Rationale for the Project](#-rationale-for-the-project)
 2. [Problem Statement](#-problem-statement)
 3. [Business Objectives](#-business-objectives)
 4. [Business Questions & KPIs](#-business-questions--kpis)
