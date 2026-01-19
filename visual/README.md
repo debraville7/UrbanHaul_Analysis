@@ -11,6 +11,21 @@ Together, these dashboards transform raw delivery data into **actionable insight
 
 ---
 
+## 📚 Table of Contents
+1. [Rationale for the Project](#-Rationale for the Project)
+2. [Problem Statement](#-problem-statement)
+3. [Business Objectives](#-business-objectives)
+4. [Business Questions & KPIs](#-business-questions--kpis)
+5. [Analytical Approach](#-analytical-approach)
+6. [Data Dictionary](#-data-dictionary)
+7. [Data Transformation Process](#-data-transformation-process)
+8. [Dashboard 1 – Executive / Operations Overview](#-dashboard-1--executive--operations-overview)
+9. [Dashboard 2 – Rider Performance](#-dashboard-2--rider-performance)
+10. [Tools & Skills Demonstrated](#-tools--skills-demonstrated)
+11. [Final Takeaway](#-final-takeaway)
+
+---
+
 ## 🎯 Rationale for the Project
 - **Performance optimization at scale:** Visibility into rider productivity, service quality, and workload balance is critical as operations grow.
 - **Proactive risk management:** Without analytics, burnout risk and inefficiencies are identified too late.
