@@ -177,7 +177,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 
 ### 🔹 Insight 1: Rider Performance Is Highly Polarized  
 📍 **Chart:** Top vs Poorly Rated Riders  
-➡️ [View Chart](./visuals/insight_01_rider_polarization.png)
+➡️ [View Chart](./visual/CUSTOMER%20RATING%20TREND.png)
 
 **Takeaway:** A small group of riders significantly outperforms others, indicating both scalability potential and hidden risk.  
 **Action:** Scale best practices from top performers and proactively support low performers.
