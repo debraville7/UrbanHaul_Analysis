@@ -248,7 +248,7 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 ---
 
 ## 🧰 Tools & Skills Demonstrated
-- Power BI (DAX, Data Modeling, Visualization)
+- Power BI (Power Query, Data Modeling, DAX, Visualization)
 - KPI Design & Interpretation
 - Business & Operational Analytics
 - Executive Storytelling
