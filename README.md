@@ -2,7 +2,7 @@
 
 ## 👇 Dashboard
 
-➡️ [Click Here!](./visual/URBANHAUL-POWER%20BI-%20DASHBOARD.png)
+➡️ [OPERATIONAL OVERVIEW](./visual/URBANHAUL-POWER%20BI-%20DASHBOARD.png)
 
 ## 📌 Executive Summary
 UrbanHaul is a rapidly scaling last-mile delivery platform operating across major urban markets and multiple delivery categories. As growth accelerated, leadership lacked a centralized, data-driven view of rider performance, operational efficiency, and service quality.
