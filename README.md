@@ -22,13 +22,11 @@ Together, these dashboards transform raw delivery data into **actionable insight
 2. [Problem Statement](#-problem-statement)
 3. [Business Objectives](#-business-objectives)
 4. [Business Questions & KPIs](#-business-questions--kpis)
-5. [Analytical Approach](#-analytical-approach)
-6. [Data Dictionary](#-data-dictionary)
-7. [Data Transformation Process](#-data-transformation-process)
-8. [Dashboard 1 – Executive / Operations Overview](#-dashboard-1--executive--operations-overview)
-9. [Dashboard 2 – Rider Performance](#-dashboard-2--rider-performance)
-10. [Tools & Skills Demonstrated](#-tools--skills-demonstrated)
-11. [Final Takeaway](#-final-takeaway)
+5. [Data Dictionary](#-data-dictionary)
+6. [Data Transformation Process](#-data-transformation-process)
+7. [Tools & Skills Demonstrated](#-tools--skills-demonstrated)
+8. [Key Insights & Recommendations](#-key-insights--Recommendations)
+9. [Final Takeaway](#-final-takeaway)
 
 ---
 
@@ -176,6 +174,15 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 - Geography normalization (State & City split)
 - Text cleansing and standardization
 - Invalid and out-of-range value handling
+
+---
+
+## 🧰 Tools & Skills Demonstrated
+- Power BI (Power Query, Data Modeling, DAX, Visualization)
+- KPI Design & Interpretation
+- Business & Operational Analytics
+- Executive Storytelling
+- Stakeholder-Ready Recommendations
 
 ---
 
@@ -332,16 +339,8 @@ Rating variance across vehicles is minimal (0.1 difference)
 
 ---
 
-## 🧰 Tools & Skills Demonstrated
-- Power BI (Power Query, Data Modeling, DAX, Visualization)
-- KPI Design & Interpretation
-- Business & Operational Analytics
-- Executive Storytelling
-- Stakeholder-Ready Recommendations
-
----
 
 ## ✅ Final Takeaway
-This analytics solution enables UrbanHaul to move from **reactive management to proactive performance optimization**, aligning rider-level execution with executive-level strategy.
+UrbanHaul is scaling successfully, but performance and efficiency are uneven across riders, regions, and delivery types. The data shows that excellence is achievable, but not yet systematic. By shifting from reactive management to data-driven, segmented operations, UrbanHaul can improve service consistency, protect rider well-being, and increase profitability as it continues to grow.
 
 
