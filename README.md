@@ -185,8 +185,16 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Top vs Poorly Rated Riders  
 ➡️ [View Chart](./visual/TOP%20%26%20POORLY%20RATED%20RIDERS.png)
 
-**Takeaway:** A small group of riders significantly outperforms others, indicating both scalability potential and hidden risk.  
-**Action:** Scale best practices from top performers and proactively support low performers.
+**Observation**
+- Top riders score between 7.3 and 9.4, with Abigail Nelson standing out at 9.4
+- Poorly rated riders cluster between 3.2 and 4.5, well below acceptable performance thresholds
+- The rating gap between the highest and lowest performers exceeds 6 points, indicating extreme performance dispersion
+
+**Insight**
+ UrbanHaul’s rider network is not operating at a consistent performance level. While top riders demonstrate that excellent service quality and efficiency are achievable, the presence of very low-rated riders signals hidden operational risks such as service inconsistency, customer dissatisfaction, and potential burnout or disengagement.
+ 
+**Recommendation**
+ Adopt a dual strategy: scale best practices from top performers while immediately diagnosing and supporting low-performing riders through targeted coaching, workload adjustments, and operational fixes rather than punitive action.
 
 ---
 
@@ -194,8 +202,19 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Operational Efficiency by Region  
 ➡️ [View Chart](./visual/OPERATIONAL%20EFFICIENCY%20BY%20REGION.png)
 
-**Takeaway:** Some regions convert efficiency into earnings better than others.  
-**Action:** Apply region-specific strategies instead of a one-size-fits-all model.
+**Observation**
+- California has the highest operational efficiency score (1.9) and the highest earnings per KM ($0.92)
+- Illinois follows closely with strong efficiency (1.8) and solid earnings ($0.85)
+- Florida and Texas show moderate efficiency (1.7) but noticeably lower earnings per KM ($0.81 and $0.79)
+- New York stands out with the lowest operational efficiency (1.0) despite relatively comparable earnings per KM ($0.82)
+
+**Insight**
+ Operational efficiency alone does not fully explain earnings performance. Some regions convert efficiency into revenue more effectively than others, while certain high-cost or high-complexity markets (e.g., New York) generate reasonable earnings despite poor efficiency—likely at the expense of higher operational strain.
+ 
+**Recommendation**
+*Segment regional strategy into two tracks:*
+- Scale efficiency-driven profitability in regions like California and Illinois
+- Diagnose cost and complexity drivers in regions like New York where earnings persist despite low efficiency
 
 ---
 
@@ -203,8 +222,17 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Delivery Volume by Priority  
 ➡️ [View Chart](./visual/DELIVERY%20BY%20PRIORITY.png)
 
-**Takeaway:** Low-priority deliveries dominate volume, but high-priority orders drive risk.  
-**Action:** Segment routing, staffing, and incentives by priority level.
+**Observation**
+- Low-priority deliveries account for 61.4% (7,878 deliveries)
+- High-priority deliveries represent 35.6% (4,563 deliveries)
+- Medium-priority deliveries are minimal at 3.0% (390 deliveries)
+- Delivery demand is heavily skewed toward low urgency, but high-priority orders still form over one-third of total volume
+
+**Insight**
+ UrbanHaul’s operations are sustained by high-volume, low-urgency work, but a significant portion of demand requires rapid fulfillment and higher service reliability. This creates a dual operating model where efficiency and responsiveness must be balanced carefully to avoid rider overload and service degradation.
+ 
+**Recommendation**
+ Segment operational planning by delivery priority—optimize efficiency for low-priority volume while protecting service quality and rider capacity for high-priority deliveries through targeted staffing, routing, and incentives.
 
 ---
 
@@ -212,8 +240,19 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Delivery & Revenue by Category  
 ➡️ [View Chart](./visual/DELIVERY%20%26%20REVENUE%20BY%20CATEGORY.png)
 
-**Takeaway:** High volume does not always mean high value.  
-**Action:** Focus capacity on high-yield categories and reprice or bundle low-yield ones.
+**Observation**
+- Bulk/Wholesale leads both in volume (5,446 deliveries) and revenue ($141,717)
+- Medical (3,439 deliveries, $96,874) and Parcel (2,169 deliveries, $61,916) are strong secondary revenue drivers
+- Pharmacy has moderate volume (787) but relatively strong revenue ($23,468)
+- Categories like Retail Goods, Fragile Items, Electronics, Grocery, and Food show low volume and disproportionately low revenue contribution
+
+**Insight**
+ UrbanHaul’s revenue is highly concentrated in a few categories, but revenue efficiency per delivery differs significantly. Some categories generate strong returns per delivery, while others consume operational capacity with limited financial upside.
+ 
+**Recommendation**
+- Double down on Bulk/Wholesale, Medical, and Parcel categories for growth
+- Introduce category-based pricing adjustments for low-yield segments
+- Bundle low-revenue categories with higher-value routes to improve efficiency
 
 ---
 
@@ -221,8 +260,17 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Customer Rating Trend  
 ➡️ [View Chart](./visual/CUSTOMER%20RATING%20TREND.png)
 
-**Takeaway:** Service quality is inconsistent throughout the year.  
-**Action:** Stabilize operations during historically volatile periods.
+**Observation**
+- Ratings peak early in February (6.3), followed by a sharp drop in March (5.2)
+- Mid-year recovery occurs from June to September, reaching 6.0 in September
+- Another decline appears in October (5.4) before stabilizing around 5.7 in November and December
+- No sustained upward trend is visible across the year
+
+**Insight**
+ Customer experience at UrbanHaul lacks consistency. While the organization is capable of delivering high-quality service, variability suggests operational instability—potentially driven by fluctuating rider workload, seasonal demand spikes, or uneven execution across regions and delivery types.
+ 
+**Recommendation**
+ Shift focus from peak performance to consistency by identifying and stabilizing the operational drivers behind rating drops, particularly during transition months and high-demand periods.
 
 ---
 
@@ -230,8 +278,17 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Performance by Shift  
 ➡️ [View Chart](./visual/PERFORMANCE%20BY%20SHIFT.png)
 
-**Takeaway:** Performance is evenly distributed across shifts, with a slight night-shift edge.  
-**Action:** Transfer night-shift efficiencies to daytime operations.
+**Observation**
+- Night shift has the highest average performance score (6.3) and contributes 33.75% to overall rider rating
+- Morning shift follows closely with a 6.2 score and 33.58% contribution
+- Afternoon shift records the lowest score (6.0) and slightly lower contribution (32.67%)
+- Performance contribution across shifts is nearly evenly split, with less than a 1.1 percentage-point spread
+
+**Insight**
+ UrbanHaul’s rider performance is broadly consistent across shifts, indicating that no single shift disproportionately drives overall performance. However, the small but persistent edge seen in night shifts suggests operational conditions at night are marginally more favorable.
+
+**Recommendation**
+ Maintain balanced resource allocation across shifts while selectively transferring night-shift efficiencies to daytime operations to lift overall performance without increasing workload pressure.
 
 ---
 
@@ -239,17 +296,39 @@ This project addresses that gap by delivering a **multi-layered analytics soluti
 📍 **Chart:** Vehicle Performance  
 ➡️ [View Chart](./visual/VEHICLE%20PERFORMANCE%20BY%20OVERALL%20RATING.png)
 
-**Takeaway:** Rider satisfaction is consistent across vehicles.  
-**Action:** Optimize fleet decisions using efficiency and cost, not perception.
+**Observation**
+- Cars and motorcycles handle the highest delivery volumes (3.5K and 3.4K)
+- Bikes and vans manage slightly fewer deliveries (3.0K and 2.9K)
+- Overall rider ratings are nearly identical across vehicles
+Car: 6.2
+Motorcycle: 6.2
+Bike: 6.2
+Van: 6.1
+Rating variance across vehicles is minimal (0.1 difference)
+
+**Insight**
+ Vehicle type does not materially affect rider satisfaction or perceived performance. Differences in delivery volume are therefore driven by operational deployment and route assignment rather than rider experience.
+
+**Recommendation**
+ Evaluate vehicle performance primarily through efficiency and cost lenses rather than rider rating, while maintaining consistent rider experience standards across the fleet.
 
 ---
 
 ### 🔹 Insight 8: Rider Performance Is Stable Over Time  
 📍 **Chart:** Overall Rider Rating Trend  
 ➡️ [View Chart](./visual/OVERALL%20RIDER%20RATING%20TREND.png)
+**Observation**
+- Ratings start at 5.9 in January, peak at 6.4 in February, then drop back to 5.9 in March
+- Mid-year ratings stabilize between 6.0 and 6.3 from April through July
+- A noticeable dip occurs in August (6.1) and October (6.1)
+- Ratings recover and trend upward in November (6.2), reaching a year-high again in December (6.4)
+- Overall variation remains within a narrow band (~0.5 range)
 
-**Takeaway:** Performance is resilient but experiences short-term volatility.  
-**Action:** Proactively manage seasonal dips and institutionalize year-end best practices.
+**Insight**
+ UrbanHaul’s rider performance is generally stable, but short-term operational disruptions or workload shifts periodically affect outcomes. The strong recovery at year-end suggests that corrective actions or seasonal normalization are effective when applied.
+
+**Recommendation**
+ Focus on reducing mid-year volatility by identifying and proactively managing the drivers behind temporary performance dips, while institutionalizing the practices that support strong year-end performance.
 
 ---
 
